@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "allrabbit-web-app"
-  }
+    "default": "allrabbit-web-app",
+    "staging": "allrabbit-web-app-staging"
+  },
+  "targets": {}
 }
